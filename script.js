@@ -12,6 +12,7 @@ const createProduct = (data, i) => {
     item.classList.add('list-group-item');
     item.classList.add('d-flex');
     item.classList.add('justify-content-between');
+    item.classList.add('align-items-center');
     item.classList.add('bg-dark');
     item.classList.add('text-white-50');
     
