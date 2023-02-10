@@ -1,0 +1,193 @@
+[
+	{
+		"product_id":153829,
+		"name":"Camiseta Sufgang 4SUF Monsters Purple",
+		"price":189.90,
+		"disponibility":1,
+		"link":"/produto/camiseta-sufgang-4suf-monsters-purple-153829",
+		"TrocaGratis":false},
+	{	
+		"product_id":153822,
+		"name":"Calça Sufgang 4-40 Tech Pants Bordo",
+		"price":289.90,
+		"disponibility":1,
+		"link":"/produto/calca-sufgang-4-40-tech-pants-bordo-153822",
+		"TrocaGratis":false
+	},
+	{	
+		"product_id":153821,
+		"name":"Calça Sufgang 4-40 Tech Pants Black",
+		"price":289.90,
+		"disponibility":1,
+		"link":"/produto/calca-sufgang-4-40-tech-pants-black-153821",
+		"TrocaGratis":false
+	},
+	{	
+		"product_id":153820,
+		"name":"Calça Sufgang Jeans History",
+		"price":499.90,
+		"disponibility":1,
+		"link":"/produto/calca-sufgang-jeans-history-153820",
+		"TrocaGratis":false
+	},
+	{	
+		"product_id":153819,
+		"name":"Moletom Sufgang 4SUF Bullets Black",
+		"price":349.90,
+		"disponibility":1,
+		"link":"/produto/moletom-sufgang-4suf-bullets-black-153819",
+		"TrocaGratis":false
+	},
+	{	
+		"product_id":153818,
+		"name":"Moletom Sufgang 4SUF Bullets White",
+		"price":349.90,
+		"disponibility":1,
+		"link":"/produto/moletom-sufgang-4suf-bullets-white-153818",
+		"TrocaGratis":false
+	},
+	{	
+		"product_id":153817,
+		"name":"Camiseta Sufgang 4SUF Monsters Black",
+		"price":189.90,
+		"disponibility":1,
+		"link":"/produto/camiseta-sufgang-4suf-monsters-black-153817",
+		"TrocaGratis":false
+	},
+	{	
+		"product_id":153816,
+		"name":"Camiseta Sufgang 4SUF Bullets Black",
+		"price":189.90,
+		"disponibility":1,
+		"link":"/produto/camiseta-sufgang-4suf-bullets-black-153816",
+		"TrocaGratis":false
+	},
+	{	
+		"product_id":153814,
+		"name":"Camiseta Sufgang Arabic Script Off White",
+		"price":189.90,
+		"disponibility":1,
+		"link":"/produto/camiseta-sufgang-arabic-script-off-white-153814",
+		"TrocaGratis":false
+	},
+	{	
+		"product_id":153264,
+		"name":"Camiseta Sufgang Slime Lilas",
+		"price":179.90,
+		"disponibility":1,
+		"link":"/produto/camiseta-sufgang-slime-lilas-153264",
+		"TrocaGratis":false
+	},
+	{	
+		"product_id":153263,
+		"name":"Camiseta Sufgang Delusional Tee Cinza Stone",
+		"price":179.90,
+		"disponibility":1,
+		"link":"/produto/camiseta-sufgang-delusional-tee-cinza-stone-153263",
+		"TrocaGratis":false
+	},
+	{	
+		"product_id":153205,
+		"name":"Calça Moletom Sufgang Suf4-40 Preto",
+		"price":299.90,
+		"disponibility":1,
+		"link":"/produto/calca-moletom-sufgang-suf4-40-preto-153205",
+		"TrocaGratis":false
+	},
+	{	
+		"product_id":153194,
+		"name":"Camiseta Sufgang Movie Miami Tee Preto",
+		"price":145.00,
+		"disponibility":1,
+		"link":"/produto/camiseta-sufgang-movie-miami-tee-preto-153194",
+		"TrocaGratis":false
+	},
+	{	
+		"product_id":153193,
+		"name":"Camiseta Sufgang Delusional Tee Preto",
+		"price":179.90,
+		"disponibility":1,
+		"link":"/produto/camiseta-sufgang-delusional-tee-preto-153193",
+		"TrocaGratis":false
+	},
+	{	
+		"product_id":153187,
+		"name":"Bermuda Sufgang Suf4-40 Verde",
+		"price":239.90,
+		"disponibility":1,
+		"link":"/produto/bermuda-sufgang-suf4-40-verde-153187",
+		"TrocaGratis":false
+	},
+	{	
+		"product_id":153186,
+		"name":"Calça Jeans Sufgang Azul",
+		"price":449.90,
+		"disponibility":1,
+		"link":"/produto/calca-jeans-sufgang-azul-153186",
+		"TrocaGratis":false
+	},
+	{	
+		"product_id":153185,
+		"name":"Calça Jeans Sufgang Preto",
+		"price":349.90,
+		"disponibility":1,
+		"link":"/produto/calca-jeans-sufgang-preto-153185",
+		"TrocaGratis":false
+	},
+	{	
+		"product_id":153184,
+		"name":"Boné Trucker Sufgang Verde",
+		"price":139.90,
+		"disponibility":1,
+		"link":"/produto/bone-trucker-sufgang-verde-153184",
+		"TrocaGratis":false
+	},
+	{	
+		"product_id":153175,
+		"name":"Mão Eva Sufgang x Cena Foam Hand Blue",
+		"price":29.90,
+		"disponibility":1,
+		"link":"/produto/mao-eva-sufgang-x-cena-foam-hand-blue-153175",
+		"TrocaGratis":false
+	},
+	{	
+		"product_id":153171,
+		"name":"Meia Sufgang x Cena Socks Black",
+		"price":49.90,
+		"disponibility":1,
+		"link":"/produto/meia-sufgang-x-cena-socks-black-153171",
+		"TrocaGratis":false
+	},
+	{	
+		"product_id":153169,
+		"name":"Camiseta Sufgang x Cena Tee Code440 Black",
+		"price":179.90,
+		"disponibility":1,
+		"link":"/produto/camiseta-sufgang-x-cena-tee-code440-black-153169",
+		"TrocaGratis":false
+	},
+	{	
+		"product_id":152973,
+		"name":"Umbrella Sufgang Black",
+		"price":169.90,
+		"disponibility":1,
+		"link":"/produto/umbrella-sufgang-black-152973",
+		"TrocaGratis":false
+	},
+	{	
+		"product_id":152452,
+		"name":"Calça Jogger Sufgang 3M Refletiva Preta",
+		"price":179.90,
+		"disponibility":1,
+		"link":"/produto/calca-jogger-sufgang-3m-refletiva-preta-152452",
+		"TrocaGratis":false
+	},
+	{	
+		"product_id":152326,
+		"name":"Calça Sufgang Rip Stop Handles Grey",
+		"price":350.00,
+		"disponibility":1,
+		"link":"/produto/calca-sufgang-rip-stop-handles-grey-152326",
+		"TrocaGratis":false
+	}
+]
